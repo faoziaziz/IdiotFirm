@@ -1,1 +1,10 @@
-w25q64fvssig
+# Idiot Firm
+
+# Device List
+
+|Type            | Detail      |
+|----------------|-------------|
+|External Memory | w25q64fvssig|
+|Etherenet       | enc28j60    |
+
+
